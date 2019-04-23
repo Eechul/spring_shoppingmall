@@ -1,0 +1,5 @@
+*.log
+.idea/
+lib/
+out/
+upload/
